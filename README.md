@@ -10,7 +10,7 @@ So you want to make an FR4 plate from an SVG or DXF file? Don't know where or ho
 
 ## Setting Up
 
-You're going to need [KiCad](http://kicad-pcb.org/). Version 6 or higher is needed for SVG files. Download it and start the installer.
+You're going to need [KiCad](https://www.kicad.org). Version 6 or higher is needed for SVG files. Download it and start the installer.
 
 ![Screenshot 1.](/assets/Screenshot-1.png "Screenshot 1.")
 
