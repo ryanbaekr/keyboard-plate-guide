@@ -89,7 +89,7 @@ Click on the "Run footprint assignment tool" icon.
 
 ![Screenshot 29.](/assets/Screenshot-29.png "Screenshot 29.")
 
-Assign "TP1" to "TestPoint_THTPad_1.0x1.0mm_Drill0.5mm" from the "TestPoint" fottprint library. Double click it to assign it.
+Assign "TP1" to "TestPoint_THTPad_1.0x1.0mm_Drill0.5mm" from the "TestPoint" footprint library. Double click it to assign it.
 
 ![Screenshot 15.](/assets/Screenshot-15.png "Screenshot 15.")
 
